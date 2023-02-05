@@ -19,6 +19,8 @@ Here are some guidelines to help you get started:
 Download the code from GitHub.
 Install dependencies using $npm install.
 
+## Walkthrough video 
+[Walkthrough](https://drive.google.com/file/d/1G2a8y1obixnuRo7axXNpwCoL3xAAa_Jj/view)
 
 
 
